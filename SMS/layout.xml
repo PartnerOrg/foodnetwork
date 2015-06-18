@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout>
+	<BackgroundImageUrl></BackgroundImageUrl>
+	<HeaderImageUrl></HeaderImageUrl>
+	<Tab seq="1">
+		<Label></Label>
+		<FeedUrl>/v1/feed/Tab-1:Recipes</FeedUrl>
+	</Tab>
+	<Tab seq="2">
+		<Label></Label>
+		<FeedUrl>/v1/feed/Tab-2:RelatedVideos</FeedUrl>
+	</Tab>
+</layout>
